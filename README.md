@@ -13,3 +13,7 @@
 - Basic coding concepts, problem-olving, and beginner project ideas.
 - Understanding how code interacts with hardware, electronic, and software.
 - Learning how to manage projects, code and collaborate like a pro.
+
+# Goals and reach out
+- *Long-term goal:* Build a strong foundation in CS/engineering & atttend an elite college
+- *Reach out @:* nidhi1khushi14@gmail
