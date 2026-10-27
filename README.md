@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Khushi🤗
+> 10th Grade student @ Nosegay Public School, Rajasthan, India
+> Aspiring Computer Science and Engineering student
 
-<!--
-**Khushigarg0101/Khushigarg0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me 
+- *Currently learning:* Python langauge & fundamental programming logic
+- *Current focus:* Enhancing my skills across both software and hardware
+- *Looking to collaborate:* Software tech & engineering projects
+- *Pronouns:* She/her
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm looking for help with
+- Guidance from experienced developers & mentors and developers in CS & engineering
+- Basic coding concepts, problem-olving, and beginner project ideas
+- Understanding how code interacts with hardware, electronic, and software
+- Learning how to manage projects, code and collaborate like a pro
